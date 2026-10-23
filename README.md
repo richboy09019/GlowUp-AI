@@ -1,4 +1,4 @@
-# 📱 [Your App Name]
+# 📱 [GlowUp AI]
 
 An AI-powered mobile application that scans and analyzes facial features to provide an instant rating, along with actionable, personalized improvement routines to help you look and feel your best.
 

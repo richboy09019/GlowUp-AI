@@ -19,14 +19,6 @@ Unlock your full potential with our specialized weekly plan, which includes:
 
 ---
 
-## 📥 How to Download
-
-1. Click the link below to download the APK file directly to your Android device:
-   👉 **[CLICK HERE TO DOWNLOAD THE APP](https://drive.google.com/uc?export=download&id=1F1-hhMNo3ZblTTYiBneDWwO5DZZ3eUmL)**
-2. Once the download is complete, open the file from your phone's notification bar or "Downloads" folder.
-
----
-
 ## ⚙️ How to Install (Android)
 
 Since this app is distributed directly and not through the Google Play Store, you may need to allow installations from unknown sources:
